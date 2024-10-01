@@ -1,4 +1,9 @@
 #### 开源
+- [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
 - [indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools)
 - [中国独立开发者项目列表(网页版)](https://github.com/kisslove/chinese-independent-developer-site)
 - [linktre-tools](https://github.com/PennyJoly/linktre-tools)
+- [Gap—信息差](https://github.com/weijunext/gapis.money)
+- [独立开发者工具收集站](https://github.com/yaolifeng0629/Independent-developer-tools)
+- [独立开发者出海](https://github.com/hua1995116/indiehackers-steps)
+- []()
