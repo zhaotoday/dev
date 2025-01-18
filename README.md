@@ -27,3 +27,4 @@
 - [zerotier](https://www.zerotier.com/)
 - [tailscale](https://tailscale.com/)
 - [独享带宽，教你搭建只属于自己的内网穿透服务器（基于frp与zerotier moon服务器）](https://www.bilibili.com/video/BV1dr4y147aq/)
+- [自建内网穿透服务器](https://www.bilibili.com/video/BV1dr4y147aq/)
