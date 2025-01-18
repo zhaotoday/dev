@@ -41,4 +41,5 @@
 
 #### 开源
 - [rustdesk](https://github.com/rustdesk/rustdesk)
+- [rustdesk-server](https://github.com/rustdesk/rustdesk-server)
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP)
