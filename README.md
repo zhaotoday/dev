@@ -43,3 +43,9 @@
 - [rustdesk](https://github.com/rustdesk/rustdesk)
 - [rustdesk-server](https://github.com/rustdesk/rustdesk-server)
 - [FreeRDP](https://github.com/FreeRDP/FreeRDP)
+
+#### 第三方服务
+- [getscreen](https://getscreen.me/zh/)
+
+#### 文章
+- [推荐 4 个远程桌面开源项目！](https://juejin.cn/post/7095258087644692517)
