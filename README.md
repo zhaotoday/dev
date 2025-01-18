@@ -33,6 +33,7 @@
 #### 教程
 - [独享带宽，教你搭建只属于自己的内网穿透服务器（基于frp与zerotier moon服务器）](https://www.bilibili.com/video/BV1dr4y147aq/)
 - [自建内网穿透服务器](https://www.bilibili.com/video/BV1dr4y147aq/)
+- [公网访问？内网穿透！零经验上手！](https://www.bilibili.com/video/BV1Qq4y1w7F5/)
 
 ## 远程桌面
 
