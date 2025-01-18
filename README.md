@@ -8,6 +8,7 @@
 - [独立开发者出海](https://github.com/hua1995116/indiehackers-steps)
 - [1000UserGuide](https://github.com/naxiaoduo/1000UserGuide)
 - [独立开发者的最佳技术栈](https://github.com/npmstudy/indie-dev-with-ai)
+- [puter](https://github.com/HeyPuter/puter)
 
 #### 远程工作
 - [聊一聊远程工作的事，为什么程序员适合远程工作](https://juejin.cn/post/7436920941626114074)
