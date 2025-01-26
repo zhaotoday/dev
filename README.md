@@ -1,3 +1,6 @@
+#### 文档
+- [语言代码](https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn)
+
 #### 开源
 - [Hello 算法](https://www.hello-algo.com/)
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
