@@ -16,6 +16,9 @@
 - [Github 、Gitee 优秀的开源项目](https://github.com/chenyl8848/great-open-source-project)
 - [minio-plus](https://gitee.com/lxp135/minio-plus)
 
+#### 文章
+- [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
+
 #### 远程工作
 - [聊一聊远程工作的事，为什么程序员适合远程工作](https://juejin.cn/post/7436920941626114074)
 - [2024全网最全的20个海内外Web3求职平台，再也不愁找不到工作了！](https://juejin.cn/post/7339197453361676328)
