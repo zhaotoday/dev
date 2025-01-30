@@ -1,6 +1,7 @@
 #### 文档
 - [语言代码](https://developers.google.com/admin-sdk/directory/v1/languages?hl=zh-cn)
 - [PM2](https://pm2.node.org.cn/)
+- [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 
 #### 开源
 - [Hello 算法](https://www.hello-algo.com/)
