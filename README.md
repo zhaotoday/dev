@@ -18,6 +18,7 @@
 - [Github 、Gitee 优秀的开源项目](https://github.com/chenyl8848/great-open-source-project)
 - [minio-plus](https://gitee.com/lxp135/minio-plus)
 - [tiny-engine](https://github.com/opentiny/tiny-engine)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
 
 #### 文章
 - [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
