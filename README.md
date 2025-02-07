@@ -20,6 +20,7 @@
 - [tiny-engine](https://github.com/opentiny/tiny-engine)
 - [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
 - [upscayl](https://github.com/upscayl/upscayl)
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js)
 
 #### 文章
 - [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
