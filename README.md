@@ -59,6 +59,7 @@
 ## 微信机器人
 
 #### 开源
+- [gewechaty](https://github.com/mikoshu/gewechaty)
 - [Gewechat](https://github.com/Devo919/Gewechat)
 - [wechaty](https://github.com/wechaty/wechaty)
 
