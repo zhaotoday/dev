@@ -56,6 +56,11 @@
 - [自建内网穿透服务器](https://www.bilibili.com/video/BV1dr4y147aq/)
 - [公网访问？内网穿透！零经验上手！](https://www.bilibili.com/video/BV1Qq4y1w7F5/)
 
+## 微信机器人
+
+#### 开源
+- [wechaty](https://github.com/wechaty/wechaty)
+
 ## 远程桌面
 
 #### 开源
