@@ -31,6 +31,7 @@
 - [从 ESLint 到 Husky：前端代码规范一站式教程](https://juejin.cn/post/7444834021152342066)
 - [2025 全栈独立开发](https://juejin.cn/post/7462542577893310500)
 - [都快2025年了,你们的前端代码都上装饰器了没？](https://juejin.cn/post/7449313175920459811)
+- [2024年值得推荐的4款免费且功能强大的在线文档工具](https://juejin.cn/post/7450872030196416566)
 
 #### 平台
 - [cnb.cool](https://cnb.cool/)
