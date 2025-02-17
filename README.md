@@ -25,6 +25,7 @@
 - [v6.dooring.public](https://github.com/MrXujiang/v6.dooring.public)
 - [ServerStatus](https://github.com/cppla/ServerStatus)
 - [apifm-wxapi](https://github.com/gooking/apifm-wxapi)
+- [code-server](https://github.com/coder/code-server)
 
 #### 文章
 - [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
