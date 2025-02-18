@@ -28,6 +28,9 @@
 - [code-server](https://github.com/coder/code-server)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 
+#### 工具
+- [spug](https://github.com/openspug/spug)
+
 #### 文章
 - [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
 - [自托管！一款开源的网站统计工具！](https://juejin.cn/post/7453822738434342938)
