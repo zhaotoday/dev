@@ -27,6 +27,7 @@
 - [apifm-wxapi](https://github.com/gooking/apifm-wxapi)
 - [code-server](https://github.com/coder/code-server)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
+- [siyuan](https://github.com/siyuan-note/siyuan)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
