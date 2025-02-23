@@ -41,6 +41,9 @@
 - [2024年值得推荐的4款免费且功能强大的在线文档工具](https://juejin.cn/post/7450872030196416566)
 - [私藏五年的开发工具分享](https://juejin.cn/post/7390682536744615970)
 
+#### 博客
+- [J实验室](https://weijunext.com/)
+
 #### 平台
 - [cnb.cool](https://cnb.cool/)
 
