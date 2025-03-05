@@ -46,6 +46,7 @@
 - [私藏五年的开发工具分享](https://juejin.cn/post/7390682536744615970)
 - [flowmix-flow可视化流程引擎, 开源!](https://juejin.cn/post/7422575000777867327)
 - [2025 前端+大前端+全栈 知识体系（上）](https://juejin.cn/post/7477025419418730532)
+- [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://juejin.cn/post/7468655596641976320)
 
 #### 博客
 - [J实验室](https://weijunext.com/)
