@@ -31,6 +31,7 @@
 - [code-server](https://github.com/coder/code-server)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [siyuan](https://github.com/siyuan-note/siyuan)
+- [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
