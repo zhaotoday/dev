@@ -48,6 +48,7 @@
 - [2025 前端+大前端+全栈 知识体系（上）](https://juejin.cn/post/7477025419418730532)
 - [前端性能优化的几个大招（理论+实践，看完就是Leader水平）](https://juejin.cn/post/7468655596641976320)
 - [程序员创业误区](https://juejin.cn/post/7473368911360557092)
+- [TypeScript 类型系统生存指南：24 个爱恨交织的高级技巧](https://juejin.cn/post/7472705976421990409)
 
 #### 博客
 - [J实验室](https://weijunext.com/)
