@@ -32,6 +32,7 @@
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [siyuan](https://github.com/siyuan-note/siyuan)
 - [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
+- [dufs](https://github.com/sigoden/dufs)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
