@@ -34,6 +34,7 @@
 - [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 - [dufs](https://github.com/sigoden/dufs)
 - [text-search-engine](https://github.com/cjinhuo/text-search-engine)
+- [whoiser](https://github.com/LayeredStudio/whoiser)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
