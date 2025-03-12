@@ -33,6 +33,7 @@
 - [siyuan](https://github.com/siyuan-note/siyuan)
 - [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 - [dufs](https://github.com/sigoden/dufs)
+- [text-search-engine](https://github.com/cjinhuo/text-search-engine)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
