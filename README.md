@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [arktype](https://github.com/arktypeio/arktype)
 - [Hello 算法](https://www.hello-algo.com/)
 - [中国独立开发者项目列表](https://github.com/1c7/chinese-independent-developer)
