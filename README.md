@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [mind-map](https://github.com/wanglin2/mind-map)
 - [open-ui](https://github.com/openui/open-ui)
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [arktype](https://github.com/arktypeio/arktype)
