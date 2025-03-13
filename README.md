@@ -44,6 +44,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [如何使用 node-ssh 实现自动化部署](https://juejin.cn/post/7411480128528875574)
 - [Umami - 开源统计分析工具](https://juejin.cn/post/7330052230472302607)
 - [自托管！一款开源的网站统计工具！](https://juejin.cn/post/7453822738434342938)
 - [从 ESLint 到 Husky：前端代码规范一站式教程](https://juejin.cn/post/7444834021152342066)
