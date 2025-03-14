@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [xiaoju-survey](https://github.com/didi/xiaoju-survey)
 - [xterm.js](https://github.com/xtermjs/xterm.js)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor)
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
