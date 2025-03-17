@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [计算机学习路线和八股文](https://github.com/imarvinle/CSGuide)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey)
 - [xterm.js](https://github.com/xtermjs/xterm.js)
 - [tmagic-editor](https://github.com/Tencent/tmagic-editor)
