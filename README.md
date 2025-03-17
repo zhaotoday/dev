@@ -126,6 +126,7 @@
 - [Gewechat](https://github.com/Devo919/Gewechat)
 - [wechaty](https://github.com/wechaty/wechaty)
 - [wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)
+- [WeChatFerry](https://github.com/lich0821/WeChatFerry)
 
 #### 文章
 - [被微信群的AI机器人惊讶到了！我也手搓一个玩玩！](https://juejin.cn/post/7445184021602402343)
