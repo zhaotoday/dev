@@ -90,6 +90,7 @@
 
 #### 文章
 - [开源神器：使用 Sniffnet 轻松监控你的网络流量](https://juejin.cn/post/7466743058455330851)
+- [轻松管理反向代理：Nginx Proxy Manager 详解](https://juejin.cn/post/7404778537750495295)
 
 ## 网盘
 
