@@ -87,6 +87,7 @@
 #### 工具
 - [SamWaf](https://github.com/samwafgo/SamWaf)
 - [databasir](https://github.com/vran-dev/databasir)
+- [sealos](https://github.com/labring/sealos)
 
 #### 文章
 - [开源神器：使用 Sniffnet 轻松监控你的网络流量](https://juejin.cn/post/7466743058455330851)
