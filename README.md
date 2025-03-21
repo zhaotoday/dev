@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader)
 - [opencart](https://github.com/opencart/opencart)
 - [计算机学习路线和八股文](https://github.com/imarvinle/CSGuide)
 - [xiaoju-survey](https://github.com/didi/xiaoju-survey)
