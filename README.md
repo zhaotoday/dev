@@ -54,6 +54,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [全职独立开发经验分享](https://juejin.cn/post/7400232081525981193)
 - [前端自动化部署(Nodejs版)](https://juejin.cn/post/7226911455877218363)
 - [如何开发一个前端CLI脚手架工具，并发布npm，为团队提效](https://juejin.cn/post/7359474677980839988)
 - [如何使用 node-ssh 实现自动化部署](https://juejin.cn/post/7411480128528875574)
