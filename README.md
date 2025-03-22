@@ -7,6 +7,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 
 #### 开源
+- [immich](https://github.com/immich-app/immich)
 - [homepage](https://github.com/gethomepage/homepage)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader)
 - [opencart](https://github.com/opencart/opencart)
