@@ -50,6 +50,7 @@
 - [dufs](https://github.com/sigoden/dufs)
 - [text-search-engine](https://github.com/cjinhuo/text-search-engine)
 - [whoiser](https://github.com/LayeredStudio/whoiser)
+- [node-whois](https://github.com/FurqanSoftware/node-whois)
 
 #### 工具
 - [spug](https://github.com/openspug/spug)
