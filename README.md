@@ -7,6 +7,7 @@
 #### 网站
 - [可备案域名列表](https://domain.miit.gov.cn/)
 - [前端面试派](https://www.mianshipai.com/)
+- [README](https://readme.so/)
 
 #### 开源
 - [immich](https://github.com/immich-app/immich)
