@@ -9,6 +9,7 @@
 - [前端面试派](https://www.mianshipai.com/)
 - [README](https://readme.so/)
 - [Dev Tools](https://smalldev.tools/)
+- [Canva](https://www.canva.cn/)
 
 #### 开源
 - [immich](https://github.com/immich-app/immich)
