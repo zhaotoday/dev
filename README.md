@@ -13,6 +13,7 @@
 - [boardmix](https://boardmix.cn/)
 
 #### 开源
+- [plane](https://github.com/makeplane/plane)
 - [immich](https://github.com/immich-app/immich)
 - [homepage](https://github.com/gethomepage/homepage)
 - [Bili23-Downloader](https://github.com/ScottSloan/Bili23-Downloader)
