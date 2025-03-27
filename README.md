@@ -56,6 +56,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [给准备当前端组长的你一点小建议](https://juejin.cn/post/7472573150003167243)
 - [全职独立开发经验分享](https://juejin.cn/post/7400232081525981193)
 - [前端自动化部署(Nodejs版)](https://juejin.cn/post/7226911455877218363)
 - [如何开发一个前端CLI脚手架工具，并发布npm，为团队提效](https://juejin.cn/post/7359474677980839988)
