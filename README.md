@@ -120,6 +120,7 @@
 
 #### 开源
 - [frp](https://github.com/fatedier/frp)
+- [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
 #### 第三方服务
 - [cpolar](https://www.cpolar.com/)
