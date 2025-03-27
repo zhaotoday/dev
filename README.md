@@ -10,6 +10,7 @@
 - [README](https://readme.so/)
 - [Dev Tools](https://smalldev.tools/)
 - [Canva](https://www.canva.cn/)
+- [boardmix](https://boardmix.cn/)
 
 #### 开源
 - [immich](https://github.com/immich-app/immich)
