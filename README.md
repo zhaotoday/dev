@@ -13,6 +13,7 @@
 - [boardmix](https://boardmix.cn/)
 
 #### 开源
+- [alist](https://github.com/AlistGo/alist)
 - [lute](https://github.com/88250/lute)
 - [plane](https://github.com/makeplane/plane)
 - [immich](https://github.com/immich-app/immich)
