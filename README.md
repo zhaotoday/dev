@@ -63,6 +63,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [2025年微信授权登录全方案](https://juejin.cn/post/7457926197163687970)
 - [2024年细讲前端工程化（万字年终总结）冲冲冲](https://juejin.cn/post/7448191774537842714)
 - [给准备当前端组长的你一点小建议](https://juejin.cn/post/7472573150003167243)
 - [全职独立开发经验分享](https://juejin.cn/post/7400232081525981193)
