@@ -63,6 +63,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [写给前端,学习项目如何用Docker部署?](https://juejin.cn/post/7454451635407945739)
 - [前端哪有什么设计模式](https://juejin.cn/post/7444215159289102347)
 - [2025年微信授权登录全方案](https://juejin.cn/post/7457926197163687970)
 - [2024年细讲前端工程化（万字年终总结）冲冲冲](https://juejin.cn/post/7448191774537842714)
