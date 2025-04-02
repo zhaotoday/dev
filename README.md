@@ -13,6 +13,7 @@
 - [boardmix](https://boardmix.cn/)
 
 #### 开源
+- [bpmn-js](https://bpmn.io/toolkit/bpmn-js/)
 - [alist](https://github.com/AlistGo/alist)
 - [lute](https://github.com/88250/lute)
 - [plane](https://github.com/makeplane/plane)
