@@ -11,6 +11,7 @@
 - [Dev Tools](https://smalldev.tools/)
 - [Canva](https://www.canva.cn/)
 - [boardmix](https://boardmix.cn/)
+- [AgileBPM](http://www.agilebpm.cn/)
 
 #### 开源
 - [amis](https://github.com/baidu/amis)
