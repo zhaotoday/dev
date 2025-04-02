@@ -13,6 +13,7 @@
 - [boardmix](https://boardmix.cn/)
 
 #### 开源
+- [amis](https://github.com/baidu/amis)
 - [bpmn-js](https://bpmn.io/toolkit/bpmn-js/)
 - [alist](https://github.com/AlistGo/alist)
 - [lute](https://github.com/88250/lute)
