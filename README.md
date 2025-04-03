@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [codemirror5](https://github.com/codemirror/codemirror5)
 - [amis](https://github.com/baidu/amis)
 - [bpmn-js](https://bpmn.io/toolkit/bpmn-js/)
 - [alist](https://github.com/AlistGo/alist)
