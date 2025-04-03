@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [codemirror5](https://github.com/codemirror/codemirror5)
 - [amis](https://github.com/baidu/amis)
 - [bpmn-js](https://bpmn.io/toolkit/bpmn-js/)
