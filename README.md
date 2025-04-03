@@ -67,6 +67,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [Zod 深度解析：TypeScript 运行时类型安全的终极实践指南](https://juejin.cn/post/7487050938916159498)
 - [写给前端,学习项目如何用Docker部署?](https://juejin.cn/post/7454451635407945739)
 - [前端哪有什么设计模式](https://juejin.cn/post/7444215159289102347)
 - [2025年微信授权登录全方案](https://juejin.cn/post/7457926197163687970)
