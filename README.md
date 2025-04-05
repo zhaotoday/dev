@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [markdown-it](https://github.com/markdown-it/markdown-it)
 - [VisActor](https://github.com/VisActor)
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
 - [codemirror5](https://github.com/codemirror/codemirror5)
