@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [h5player](https://github.com/xxxily/h5player)
 - [markdown-it](https://github.com/markdown-it/markdown-it)
 - [VisActor](https://github.com/VisActor)
 - [monaco-editor](https://github.com/microsoft/monaco-editor)
