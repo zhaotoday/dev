@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [fishTV](https://github.com/lhccong/fishTV)
 - [great-open-source-project](https://github.com/chenyl8848/great-open-source-project)
 - [h5player](https://github.com/xxxily/h5player)
 - [markdown-it](https://github.com/markdown-it/markdown-it)
