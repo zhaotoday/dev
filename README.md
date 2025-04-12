@@ -137,6 +137,7 @@
 - [内网穿透工具一览表：助你快速搭建内网服务](https://juejin.cn/post/7240288077868286010)
 
 #### 开源
+- [nps](https://github.com/djylb/nps)
 - [frp](https://github.com/fatedier/frp)
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
