@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [fishTV](https://github.com/lhccong/fishTV)
 - [great-open-source-project](https://github.com/chenyl8848/great-open-source-project)
 - [h5player](https://github.com/xxxily/h5player)
