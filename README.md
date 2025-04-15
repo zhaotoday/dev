@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [pic-smaller](https://github.com/joye61/pic-smaller)
 - [ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
 - [wewe-rss](https://github.com/cooderl/wewe-rss)
 - [billd-live](https://github.com/galaxy-s10/billd-live)
