@@ -15,6 +15,7 @@
 - [anyrtc](https://docs.anyrtc.io/)
 
 #### 开源
+- [wewe-rss](https://github.com/cooderl/wewe-rss)
 - [billd-live](https://github.com/galaxy-s10/billd-live)
 - [javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [fishTV](https://github.com/lhccong/fishTV)
