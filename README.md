@@ -16,6 +16,7 @@
 - [opentiny](https://opentiny.design/)
 
 #### 开源
+- [poster-design](https://github.com/palxiao/poster-design)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver)
 - [pic-smaller](https://github.com/joye61/pic-smaller)
 - [ophiuchi-desktop](https://github.com/cheeselemon/ophiuchi-desktop)
