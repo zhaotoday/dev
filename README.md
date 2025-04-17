@@ -17,6 +17,7 @@
 - [freemediaheckyeah](https://fmhy.net/)
 
 #### 开源
+- [mermaid](https://github.com/mermaid-js/mermaid)
 - [poster-design](https://github.com/palxiao/poster-design)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver)
 - [pic-smaller](https://github.com/joye61/pic-smaller)
