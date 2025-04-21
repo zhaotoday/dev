@@ -17,6 +17,7 @@
 - [freemediaheckyeah](https://fmhy.net/)
 
 #### 开源
+- [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)
 - [mermaid](https://github.com/mermaid-js/mermaid)
 - [poster-design](https://github.com/palxiao/poster-design)
 - [CloudSaver](https://github.com/jiangrui1994/CloudSaver)
