@@ -17,6 +17,7 @@
 - [freemediaheckyeah](https://fmhy.net/)
 
 #### 开源
+- [dootask](https://github.com/kuaifan/dootask)
 - [iplist](https://github.com/metowolf/iplist)
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [hotkeys-js](https://github.com/jaywcjlove/hotkeys-js)
