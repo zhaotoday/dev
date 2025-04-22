@@ -17,6 +17,7 @@
 - [freemediaheckyeah](https://fmhy.net/)
 
 #### 开源
+- [pywinauto](https://github.com/pywinauto/pywinauto)
 - [dootask](https://github.com/kuaifan/dootask)
 - [iplist](https://github.com/metowolf/iplist)
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch)
