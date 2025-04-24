@@ -92,6 +92,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [即将2025年了，我还不会TS](https://juejin.cn/post/7380292749179748367)
 - [开源运营: 一个多月, 我是如何从 0 做到 400 + Star 的](https://juejin.cn/post/7469776944540794892)
 - [新手想玩硬件，买单片机还是树莓派好？](https://juejin.cn/post/7491099931870953511)
 - [Zod 深度解析：TypeScript 运行时类型安全的终极实践指南](https://juejin.cn/post/7487050938916159498)
