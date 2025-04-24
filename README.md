@@ -16,6 +16,9 @@
 - [opentiny](https://opentiny.design/)
 - [freemediaheckyeah](https://fmhy.net/)
 
+#### 工具
+- [探数API](https://www.tanshuapi.com/)
+
 #### 开源
 - [pywinauto](https://github.com/pywinauto/pywinauto)
 - [dootask](https://github.com/kuaifan/dootask)
