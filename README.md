@@ -20,6 +20,7 @@
 - [探数API](https://www.tanshuapi.com/)
 
 #### 开源
+- [es-toolkit](https://github.com/toss/es-toolkit)
 - [filebrowser](https://github.com/filebrowser/filebrowser)
 - [pywinauto](https://github.com/pywinauto/pywinauto)
 - [dootask](https://github.com/kuaifan/dootask)
