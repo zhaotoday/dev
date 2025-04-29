@@ -21,6 +21,7 @@
 - [探数API](https://www.tanshuapi.com/)
 
 #### 开源
+- [QuickJS](https://github.com/quickjs-zh/QuickJS)
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
 - [es-toolkit](https://github.com/toss/es-toolkit)
 - [filebrowser](https://github.com/filebrowser/filebrowser)
