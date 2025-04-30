@@ -99,6 +99,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [买了个mini主机当服务器](https://juejin.cn/post/7430460789067055154)
 - [Memos：知识工作者的理想开源笔记系统](https://juejin.cn/post/7497168694985441332)
 - [即将2025年了，我还不会TS](https://juejin.cn/post/7380292749179748367)
 - [开源运营: 一个多月, 我是如何从 0 做到 400 + Star 的](https://juejin.cn/post/7469776944540794892)
