@@ -170,6 +170,7 @@
 #### 开源
 - [nps](https://github.com/djylb/nps)
 - [frp](https://github.com/fatedier/frp)
+- [frpmgr](https://github.com/koho/frpmgr)
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
 
 #### 第三方服务
