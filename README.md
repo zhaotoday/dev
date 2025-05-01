@@ -24,6 +24,7 @@
 - [探数API](https://www.tanshuapi.com/)
 
 #### 开源
+- [DevToys](https://github.com/DevToys-app/DevToys)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
 - [heti](https://github.com/sivan/heti)
 - [QuickJS](https://github.com/quickjs-zh/QuickJS)
