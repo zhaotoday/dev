@@ -6,6 +6,7 @@
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [zhcndoc](https://github.com/zhcndoc)
 - [IT Tools](https://it-tools.tech/)
+- [DevDocs](https://devdocs.io/)
 
 #### 网站
 - [可备案域名列表](https://domain.miit.gov.cn/)
