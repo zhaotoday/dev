@@ -24,6 +24,7 @@
 - [探数API](https://www.tanshuapi.com/)
 
 #### 开源
+- [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)
 - [IdGenerator](https://github.com/yitter/IdGenerator)
 - [DevToys](https://github.com/DevToys-app/DevToys)
 - [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
