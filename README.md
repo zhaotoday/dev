@@ -22,6 +22,7 @@
 
 #### 工具
 - [探数API](https://www.tanshuapi.com/)
+- [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
 - [awesome-indie-hacker-tools](https://github.com/iAmCorey/awesome-indie-hacker-tools)
