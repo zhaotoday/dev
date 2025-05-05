@@ -25,6 +25,8 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [nas-tools](https://github.com/NAStool/nas-tools)
+- [MoviePilot](https://github.com/jxxghp/MoviePilot)
 - [awesome-indie-hacker-tools](https://github.com/iAmCorey/awesome-indie-hacker-tools)
 - [Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools)
 - [IdGenerator](https://github.com/yitter/IdGenerator)
