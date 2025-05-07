@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
 - [nas-tools](https://github.com/NAStool/nas-tools)
 - [MoviePilot](https://github.com/jxxghp/MoviePilot)
