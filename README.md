@@ -7,7 +7,6 @@
 - [zhcndoc](https://github.com/zhcndoc)
 - [IT Tools](https://it-tools.tech/)
 - [DevDocs](https://devdocs.io/)
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 #### 网站
 - [roadmap](https://roadmap.sh/)
@@ -27,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [rybbit](https://github.com/rybbit-io/rybbit)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
 - [awesome-guidelines](https://github.com/Kristories/awesome-guidelines)
