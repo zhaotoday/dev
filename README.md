@@ -7,6 +7,7 @@
 - [zhcndoc](https://github.com/zhcndoc)
 - [IT Tools](https://it-tools.tech/)
 - [DevDocs](https://devdocs.io/)
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 
 #### 网站
 - [roadmap](https://roadmap.sh/)
