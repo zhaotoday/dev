@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [rybbit](https://github.com/rybbit-io/rybbit)
 - [project-guidelines](https://github.com/elsewhencode/project-guidelines)
