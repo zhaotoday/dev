@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [vtj.pro](https://vtj.pro/)
 - [plop](https://github.com/plopjs/plop)
 - [free-for-dev](https://github.com/ripienaar/free-for-dev)
 - [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
