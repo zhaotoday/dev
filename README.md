@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [pocketbase](https://github.com/pocketbase/pocketbase)
 - [micro-app](https://github.com/jd-opensource/micro-app)
 - [veaury](https://github.com/gloriasoft/veaury)
 - [📈 Vue首屏优化终极指南：10大黑科技让加载速度飙升300%（附实战代码）](https://juejin.cn/post/7482265923919822875)
