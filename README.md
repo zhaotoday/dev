@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [micro-app](https://github.com/jd-opensource/micro-app)
 - [📈 Vue首屏优化终极指南：10大黑科技让加载速度飙升300%（附实战代码）](https://juejin.cn/post/7482265923919822875)
 - [vtj.pro](https://vtj.pro/)
 - [plop](https://github.com/plopjs/plop)
