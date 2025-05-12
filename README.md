@@ -122,6 +122,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [前端常用工具网站分享](https://juejin.cn/post/7369168265182134298)
 - [GitHub 上 Star 数排名前 40 的开发者工具](https://juejin.cn/post/7495014219701567522)
 - [买了个mini主机当服务器](https://juejin.cn/post/7430460789067055154)
 - [Memos：知识工作者的理想开源笔记系统](https://juejin.cn/post/7497168694985441332)
