@@ -123,6 +123,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [ts-pattern - TypeScript 的详尽模式匹配库](https://juejin.cn/post/7424028482374893578)
 - [前端常用工具网站分享](https://juejin.cn/post/7369168265182134298)
 - [GitHub 上 Star 数排名前 40 的开发者工具](https://juejin.cn/post/7495014219701567522)
 - [买了个mini主机当服务器](https://juejin.cn/post/7430460789067055154)
