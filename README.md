@@ -26,6 +26,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern)
 - [fumadocs](https://github.com/fuma-nama/fumadocs)
 - [pocketbase](https://github.com/pocketbase/pocketbase)
 - [micro-app](https://github.com/jd-opensource/micro-app)
