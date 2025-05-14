@@ -27,6 +27,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [国内顶尖团队的开源地址](https://github.com/niezhiyang/open_source_team)
 - [汇总统计各「大厂」的开源团队和项目](https://github.com/LeslieLeung/opensource-lighthouse)
 - [ts-pattern](https://github.com/gvergnaud/ts-pattern)
 - [fumadocs](https://github.com/fuma-nama/fumadocs)
