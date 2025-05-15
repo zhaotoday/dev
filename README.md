@@ -53,7 +53,6 @@
 - [QuickJS](https://github.com/quickjs-zh/QuickJS)
 - [vue-form-making](https://github.com/GavinZhuLei/vue-form-making)
 - [es-toolkit](https://github.com/toss/es-toolkit)
-- [filebrowser](https://github.com/filebrowser/filebrowser)
 - [pywinauto](https://github.com/pywinauto/pywinauto)
 - [dootask](https://github.com/kuaifan/dootask)
 - [iplist](https://github.com/metowolf/iplist)
@@ -191,6 +190,15 @@
 
 #### 开源
 - [aipan-netdisk-search](https://github.com/unilei/aipan-netdisk-search)
+- [Cloudreve](https://github.com/cloudreve/Cloudreve)
+- [nextcloud](https://github.com/nextcloud)
+- [owncloud](https://github.com/owncloud)
+- [filebrowser](https://github.com/filebrowser/filebrowser)
+- [kodbox](https://github.com/kalcaddle/kodbox)
+- [zfile](https://github.com/zfile-dev/zfile)
+- [zpan](https://github.com/saltbo/zpan)
+- [seafile](https://github.com/haiwen/seafile)
+- [syncthing](https://github.com/syncthing/syncthing)
 
 ## 内网穿透
 
