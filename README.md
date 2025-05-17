@@ -127,6 +127,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [10 个最受开发者喜爱的开源 ERP / CRM 项目（GitHub Star 榜单）](https://juejin.cn/post/7500579420468101171)
 - [19K 标星！开源局域网文件传输神器，AirDrop 跨平台替代品！](https://juejin.cn/post/7498904200300216359)
 - [浅析微前端 micro-app 框架](https://juejin.cn/post/7472210592540065833)
 - [ts-pattern - TypeScript 的详尽模式匹配库](https://juejin.cn/post/7424028482374893578)
