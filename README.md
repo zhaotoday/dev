@@ -27,6 +27,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [Fuse](https://github.com/krisk/Fuse)
 - [open-im-uniapp-demo](https://github.com/openimsdk/open-im-uniapp-demo)
 - [lapce](https://github.com/lapce/lapce)
 - [国内顶尖团队的开源地址](https://github.com/niezhiyang/open_source_team)
