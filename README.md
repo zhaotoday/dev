@@ -27,6 +27,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [showdoc](https://github.com/star7th/showdoc)
 - [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor)
 - [Fuse](https://github.com/krisk/Fuse)
 - [open-im-uniapp-demo](https://github.com/openimsdk/open-im-uniapp-demo)
