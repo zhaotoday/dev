@@ -130,6 +130,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [独立开发：创意和点子怎么来？](https://juejin.cn/post/7451775061903310875)
 - [2025年8大程序员接单、软件外包平台推荐](https://juejin.cn/post/7506436235511545867)
 - [10 个最受开发者喜爱的开源 ERP / CRM 项目（GitHub Star 榜单）](https://juejin.cn/post/7500579420468101171)
 - [19K 标星！开源局域网文件传输神器，AirDrop 跨平台替代品！](https://juejin.cn/post/7498904200300216359)
