@@ -27,6 +27,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [ruankao_itpm](https://github.com/xiaomabenten/ruankao_itpm)
 - [showdoc](https://github.com/star7th/showdoc)
 - [Astral3DEditor](https://github.com/mlt131220/Astral3DEditor)
 - [Fuse](https://github.com/krisk/Fuse)
