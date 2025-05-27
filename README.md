@@ -134,6 +134,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [只用3个CSS断点，搞定95%的响应式布局的终极指南](https://juejin.cn/post/7507311921605230646)
 - [独立开发：创意和点子怎么来？](https://juejin.cn/post/7451775061903310875)
 - [2025年8大程序员接单、软件外包平台推荐](https://juejin.cn/post/7506436235511545867)
 - [10 个最受开发者喜爱的开源 ERP / CRM 项目（GitHub Star 榜单）](https://juejin.cn/post/7500579420468101171)
