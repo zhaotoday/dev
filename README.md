@@ -27,6 +27,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 
 #### 开源
+- [solana-web3js](https://github.com/ChainBuff/solana-web3js)
 - [Awesome-offer](https://github.com/lietoumai/Awesome-offer)
 - [ruankao_itpm](https://github.com/xiaomabenten/ruankao_itpm)
 - [showdoc](https://github.com/star7th/showdoc)
