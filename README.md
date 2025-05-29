@@ -27,6 +27,7 @@
 - [stripe](https://stripe.com/zh-hk)
 - [探数API](https://www.tanshuapi.com/)
 - [Spug 推送助手](https://push.spug.cc/)
+- [lemonsqueezy](https://www.lemonsqueezy.com/)
 
 #### 开源
 - [hono](https://hono.dev/)
