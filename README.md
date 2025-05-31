@@ -28,6 +28,7 @@
 - [探数API](https://www.tanshuapi.com/)
 - [Spug 推送助手](https://push.spug.cc/)
 - [lemonsqueezy](https://www.lemonsqueezy.com/)
+- [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
 - [tinyexec](https://github.com/tinylibs/tinyexec)
