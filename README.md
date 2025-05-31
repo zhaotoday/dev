@@ -30,6 +30,8 @@
 - [lemonsqueezy](https://www.lemonsqueezy.com/)
 
 #### 开源
+- [tinyexec](https://github.com/tinylibs/tinyexec)
+- [tinypool](https://github.com/tinylibs/tinypool)
 - [remotion](https://github.com/remotion-dev/remotion)
 - [hono](https://hono.dev/)
 - [driver.js](https://github.com/kamranahmedse/driver.js)
