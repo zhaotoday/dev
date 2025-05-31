@@ -31,6 +31,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [downkyi](https://github.com/leiurayer/downkyi)
 - [tinyexec](https://github.com/tinylibs/tinyexec)
 - [tinypool](https://github.com/tinylibs/tinypool)
 - [remotion](https://github.com/remotion-dev/remotion)
