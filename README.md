@@ -31,6 +31,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 - [downkyi](https://github.com/leiurayer/downkyi)
 - [tinyexec](https://github.com/tinylibs/tinyexec)
 - [tinypool](https://github.com/tinylibs/tinypool)
