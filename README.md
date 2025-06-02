@@ -35,6 +35,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [node-ssh](https://github.com/steelbrain/node-ssh)
 - [geektime-docs](https://github.com/uaxe/geektime-docs)
 - [indiehackers-steps](https://github.com/hua1995116/indiehackers-steps)
 - [1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
