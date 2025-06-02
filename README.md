@@ -3,6 +3,7 @@
 - [PM2](https://pm2.node.org.cn/)
 - [语义化版本 2.0.0](https://semver.org/lang/zh-CN/)
 - [《一人企业方法论》V2.1](https://github.com/easychen/one-person-businesses-methodology-v2.0)
+- [精益副业：程序员如何优雅地做副业](https://github.com/easychen/lean-side-bussiness)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
 - [zhcndoc](https://github.com/zhcndoc)
 - [IT Tools](https://it-tools.tech/)
