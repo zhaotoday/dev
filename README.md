@@ -10,6 +10,7 @@
 - [IT Tools](https://it-tools.tech/)
 - [DevDocs](https://devdocs.io/)
 - [副业搞钱100问](https://github.com/dowithless/how-to-make-money)
+- [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 #### 网站
 - [UISDC](https://www.uisdc.com/)
