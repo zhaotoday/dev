@@ -13,6 +13,7 @@
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 #### 网站
+- [fontsource](https://fontsource.org/)
 - [UISDC](https://www.uisdc.com/)
 - [roadmap](https://roadmap.sh/)
 - [可备案域名列表](https://domain.miit.gov.cn/)
