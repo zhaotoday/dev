@@ -36,6 +36,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [pangu.js](https://github.com/vinta/pangu.js)
 - [cnchar](https://github.com/theajack/cnchar)
 - [ssh2](https://github.com/mscdex/ssh2)
 - [node-ssh](https://github.com/steelbrain/node-ssh)
