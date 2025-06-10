@@ -161,6 +161,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [我的这个 launch IDE 库，比尤雨溪写的和 react 团队写的都要好！](https://juejin.cn/post/7438634989954220073)
 - [深度解析阿里云 AUI Kits 互动直播 Web 端：从代码解剖到多端兼容实践](https://juejin.cn/post/7511915154033590298)
 - [如何开发JSSDK？](https://juejin.cn/post/7387250487622270985)
 - [300块成本从零开始搭建自己的家庭版NAS还可以自动备份，懂点代码有手就行！](https://juejin.cn/post/7323599971214802956)
