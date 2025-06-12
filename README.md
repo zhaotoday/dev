@@ -36,6 +36,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [marsview](https://github.com/JackySoft/marsview)
 - [nsfwjs](https://github.com/infinitered/nsfwjs)
 - [oneterm](https://github.com/veops/oneterm)
 - [komodo](https://github.com/moghtech/komodo)
