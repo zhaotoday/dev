@@ -36,6 +36,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [DPlayer](https://github.com/DIYgod/DPlayer)
 - [localsend](https://github.com/localsend/localsend)
 - [openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser/)
 - [commander.js](https://github.com/tj/commander.js)
