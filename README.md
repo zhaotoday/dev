@@ -36,6 +36,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [localsend](https://github.com/localsend/localsend)
 - [openmaxio-object-browser](https://github.com/OpenMaxIO/openmaxio-object-browser/)
 - [commander.js](https://github.com/tj/commander.js)
 - [kyanos](https://github.com/hengyoush/kyanos)
