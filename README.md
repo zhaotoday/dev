@@ -168,6 +168,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [🔍Elasticsearch 太重？来看看这个轻量级的替代品](https://juejin.cn/post/7501990822805225472)
 - [压力测试-JMeter安装、入门、结果分析](https://juejin.cn/post/7132829647674277919)
 - [万字血书！TypeScript 完全指南](https://juejin.cn/post/7482966936516034579)
 - [Vue3+TS 视频播放器组件封装（Video.js + Hls.js 最佳组合）](https://juejin.cn/post/7481548515836428303)
