@@ -167,6 +167,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [万字血书！TypeScript 完全指南](https://juejin.cn/post/7482966936516034579)
 - [Vue3+TS 视频播放器组件封装（Video.js + Hls.js 最佳组合）](https://juejin.cn/post/7481548515836428303)
 - [我的这个 launch IDE 库，比尤雨溪写的和 react 团队写的都要好！](https://juejin.cn/post/7438634989954220073)
 - [深度解析阿里云 AUI Kits 互动直播 Web 端：从代码解剖到多端兼容实践](https://juejin.cn/post/7511915154033590298)
