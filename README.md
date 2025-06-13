@@ -36,6 +36,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [kyanos](https://github.com/hengyoush/kyanos)
 - [hls.js](https://github.com/video-dev/hls.js)
 - [xgplayer](https://github.com/bytedance/xgplayer)
 - [marsview](https://github.com/JackySoft/marsview)
