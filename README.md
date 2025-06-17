@@ -34,6 +34,7 @@
 - [小傅哥 bugstack 虫洞栈](https://bugstack.cn/)
 
 #### 工具
+- [xpipe](https://xpipe.io/)
 - [stripe](https://stripe.com/zh-hk)
 - [探数API](https://www.tanshuapi.com/)
 - [Spug 推送助手](https://push.spug.cc/)
