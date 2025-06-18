@@ -18,6 +18,7 @@
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 #### 网站
+- [systeme.io](https://systeme.io/zh)
 - [fontsource](https://fontsource.org/)
 - [UISDC](https://www.uisdc.com/)
 - [roadmap](https://roadmap.sh/)
