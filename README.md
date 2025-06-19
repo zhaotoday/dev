@@ -1,4 +1,5 @@
 #### 文档
+- [developer-docs](https://github.com/speakeasy-api/developer-docs)
 - [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 - [Product Series | 产品迷思，商业产品经理的自我修养](https://github.com/wx-chevalier/Software-Product-Notes)
 - [Google 开源项目风格指南 (中文版)](https://github.com/zh-google-styleguide/zh-google-styleguide)
