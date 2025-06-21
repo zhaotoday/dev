@@ -19,6 +19,7 @@
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 #### 网站
+- [Tencent EdgeOne](https://edgeone.ai/zh)
 - [systeme.io](https://systeme.io/zh)
 - [fontsource](https://fontsource.org/)
 - [UISDC](https://www.uisdc.com/)
