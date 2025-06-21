@@ -45,6 +45,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [drawio](https://github.com/jgraph/drawio)
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/)
 - [DPlayer](https://github.com/DIYgod/DPlayer)
 - [localsend](https://github.com/localsend/localsend)
