@@ -44,6 +44,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [ua-parser-js](https://github.com/faisalman/ua-parser-js)
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/)
 - [DPlayer](https://github.com/DIYgod/DPlayer)
 - [localsend](https://github.com/localsend/localsend)
