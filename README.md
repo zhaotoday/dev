@@ -45,6 +45,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [cap](https://github.com/tiagorangel1/cap)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [drawio](https://github.com/jgraph/drawio)
 - [timesheet.js](https://sbstjn.github.io/timesheet.js/)
