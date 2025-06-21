@@ -45,6 +45,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [qrbtf](https://github.com/latentcat/qrbtf)
 - [cap](https://github.com/tiagorangel1/cap)
 - [excalidraw](https://github.com/excalidraw/excalidraw)
 - [drawio](https://github.com/jgraph/drawio)
