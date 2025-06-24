@@ -47,6 +47,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [ballcat](http://github.com/ballcat-projects/ballcat)
 - [drawdb](https://github.com/drawdb-io/drawdb)
 - [coolify](https://github.com/coollabsio/coolify)
 - [devpod](https://github.com/loft-sh/devpod)
