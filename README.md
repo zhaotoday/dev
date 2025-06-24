@@ -47,6 +47,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [nocodb](https://github.com/nocodb/nocodb)
 - [nodejieba](https://github.com/yanyiwu/nodejieba)
 - [qrbtf](https://github.com/latentcat/qrbtf)
 - [cap](https://github.com/tiagorangel1/cap)
