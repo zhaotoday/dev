@@ -50,6 +50,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [maltrail](https://github.com/stamparm/maltrail)
 - [rclone](https://github.com/rclone/rclone)
 - [picoshare](https://github.com/mtlynch/picoshare)
