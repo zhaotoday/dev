@@ -48,6 +48,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [rclone](https://github.com/rclone/rclone)
 - [picoshare](https://github.com/mtlynch/picoshare)
 - [turf](https://github.com/Turfjs/turf)
 - [ballcat](http://github.com/ballcat-projects/ballcat)
