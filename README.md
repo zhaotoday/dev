@@ -50,6 +50,8 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [modern-screenshot](https://github.com/qq15725/modern-screenshot)
+- [snapdom](https://github.com/zumerlab/snapdom)
 - [OpenCut](https://github.com/OpenCut-app/OpenCut)
 - [maltrail](https://github.com/stamparm/maltrail)
 - [rclone](https://github.com/rclone/rclone)
