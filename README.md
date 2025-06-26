@@ -53,7 +53,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
-- [fabric](https://github.com/danielmiessler/fabric)
+- [fabric.js](https://github.com/fabricjs/fabric.js)
 - [billd-desk](https://github.com/galaxy-s10/billd-desk)
 - [modern-screenshot](https://github.com/qq15725/modern-screenshot)
 - [snapdom](https://github.com/zumerlab/snapdom)
