@@ -53,6 +53,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [avatar-clipper](https://github.com/pushu-wf/avatar-clipper)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
 - [billd-desk](https://github.com/galaxy-s10/billd-desk)
 - [modern-screenshot](https://github.com/qq15725/modern-screenshot)
