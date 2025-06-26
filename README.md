@@ -20,6 +20,7 @@
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
 
 #### 网站
+- [快图设计](https://pro.kuaitu.cc/)
 - [UTools](https://www.u-tools.cn/)
 - [rainbond](https://www.rainbond.com/)
 - [flashcat](https://flashcat.cloud/)
