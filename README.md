@@ -211,6 +211,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [前端开发规范的一些实践](https://juejin.cn/post/7509785626880589851)
 - [腾讯云掀桌子了！这个免费CDN，国内秒开还无限流量？](https://juejin.cn/post/7517480234364796940)
 - [Uptime Kuma：开源服务网站状态监控工具](https://juejin.cn/post/7515584483498246196)
 - [unjs工具介绍](https://juejin.cn/post/7448464856619843619)
