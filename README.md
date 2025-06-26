@@ -54,6 +54,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [bignumber.js](https://github.com/MikeMcl/bignumber.js)
 - [Dexie.js](https://github.com/dexie/Dexie.js)
 - [avatar-clipper](https://github.com/pushu-wf/avatar-clipper)
 - [fabric.js](https://github.com/fabricjs/fabric.js)
