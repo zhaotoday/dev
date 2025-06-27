@@ -54,6 +54,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [awesome](https://github.com/sindresorhus/awesome)
 - [dpanel](https://github.com/donknap/dpanel)
 - [bignumber.js](https://github.com/MikeMcl/bignumber.js)
 - [Dexie.js](https://github.com/dexie/Dexie.js)
