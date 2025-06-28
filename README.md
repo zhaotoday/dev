@@ -18,6 +18,7 @@
 - [DevDocs](https://devdocs.io/)
 - [副业搞钱100问](https://github.com/dowithless/how-to-make-money)
 - [计算机自学指南](https://github.com/PKUFlyingPig/cs-self-learning)
+- [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 #### 网站
 - [ossinsight](https://ossinsight.io/docs/api)
