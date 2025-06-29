@@ -216,6 +216,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [想成为中高级前端，必须理解这10种javascript设计模式](https://juejin.cn/post/7433277439634096168)
 - [【实战分享】10 大支付平台全方面分析，独立开发必备！](https://my.oschina.net/leadingcode/blog/17843506)
 - [2025 年出海独立开发者穷鬼套餐（建议保存）](https://blog.csdn.net/weixin_43303603/article/details/145380390)
 - [前端埋点实现方案](https://juejin.cn/post/7094146488439144455)
