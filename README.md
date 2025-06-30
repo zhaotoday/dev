@@ -220,6 +220,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [通用BRD模板：产品经理写业务需求文档的完整指南](https://juejin.cn/post/7512015969092173843)
 - [前端常见的安全问题及防范措施](https://juejin.cn/post/7067697624626757646)
 - [想成为中高级前端，必须理解这10种javascript设计模式](https://juejin.cn/post/7433277439634096168)
 - [【实战分享】10 大支付平台全方面分析，独立开发必备！](https://my.oschina.net/leadingcode/blog/17843506)
