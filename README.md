@@ -55,6 +55,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [unplugin-sri](https://github.com/shengxj1/unplugin-sri)
 - [wflow](http://wflow.willianfu.top/)
 - [pintree](https://github.com/Pintree-io/pintree)
 - [awesome](https://github.com/sindresorhus/awesome)
