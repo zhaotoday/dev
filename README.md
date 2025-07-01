@@ -21,6 +21,7 @@
 - [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 #### 网站
+- [Wayback Machine](https://web.archive.org/)
 - [ossinsight](https://ossinsight.io/docs/api)
 - [快图设计](https://pro.kuaitu.cc/)
 - [UTools](https://www.u-tools.cn/)
