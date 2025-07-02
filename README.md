@@ -56,6 +56,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 - [mousetrap](https://github.com/ccampbell/mousetrap)
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite)
 - [moepush](https://github.com/beilunyang/moepush)
