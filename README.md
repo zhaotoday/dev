@@ -56,6 +56,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [x-file-storage](https://github.com/dromara/x-file-storage)
 - [mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized)
 - [mousetrap](https://github.com/ccampbell/mousetrap)
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite)
