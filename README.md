@@ -56,6 +56,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
 - [domain-admin](https://github.com/dromara/domain-admin)
 - [commonmark.js](https://github.com/commonmark/commonmark.js)
 - [wazuh](https://github.com/wazuh/wazuh)
