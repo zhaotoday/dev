@@ -57,6 +57,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [EMP](https://empjs.dev/index.html)
 - [Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
 - [ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
 - [domain-admin](https://github.com/dromara/domain-admin)
