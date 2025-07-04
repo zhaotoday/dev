@@ -57,6 +57,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [Vite 项目中使用 vite-plugin-dts 插件的详细指南](https://juejin.cn/post/7511724410052657186)
 - [EMP](https://empjs.dev/index.html)
 - [Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
 - [ffmpeg.wasm](https://ffmpegwasm.netlify.app/)
