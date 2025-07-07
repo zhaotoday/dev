@@ -22,7 +22,6 @@
 - [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 #### 网站
-- [tinify](https://tinify.cn/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Wayback Machine](https://web.archive.org/)
 - [ossinsight](https://ossinsight.io/docs/api)
@@ -50,6 +49,7 @@
 - [小傅哥 bugstack 虫洞栈](https://bugstack.cn/)
 
 #### 工具
+- [tinify](https://tinify.cn/)
 - [百创工坊](https://96tools.tsiji.com/)
 - [xpipe](https://xpipe.io/)
 - [stripe](https://stripe.com/zh-hk)
