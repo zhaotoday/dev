@@ -22,6 +22,7 @@
 - [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 #### 网站
+- [tinify](https://tinify.cn/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Wayback Machine](https://web.archive.org/)
 - [ossinsight](https://ossinsight.io/docs/api)
