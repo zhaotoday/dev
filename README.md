@@ -59,6 +59,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [hashids](https://sqids.org/javascript?hashids)
 - [ajv](https://github.com/ajv-validator/ajv)
 - [EMP](https://empjs.dev/index.html)
 - [Project-Ideas-And-Resources](https://github.com/The-Cool-Coders/Project-Ideas-And-Resources)
