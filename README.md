@@ -1,4 +1,5 @@
 #### 文档
+- [第三方支付必懂的会计基本知识](https://juejin.cn/post/7459942984067973155)
 - [令人惊叹的全栈开发教程](https://github.com/datawhalechina/wow-fullstack)
 - [面向开发者的 Web 技术](https://developer.mozilla.org/zh-CN/docs/Web)
 - [developer-docs](https://github.com/speakeasy-api/developer-docs)
