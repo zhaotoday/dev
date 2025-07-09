@@ -60,6 +60,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [EZUIKit-JavaScript-npm](https://github.com/Ezviz-OpenBiz/EZUIKit-JavaScript-npm)
 - [mind-elixir-core](https://github.com/SSShooter/mind-elixir-core)
 - [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 - [hashids](https://sqids.org/javascript?hashids)
