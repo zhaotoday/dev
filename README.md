@@ -60,6 +60,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [short-link](https://github.com/Alessandro-Pang/short-link)
 - [alova](https://alova.js.org/zh-CN/)
 - [EZUIKit-JavaScript-npm](https://github.com/Ezviz-OpenBiz/EZUIKit-JavaScript-npm)
 - [mind-elixir-core](https://github.com/SSShooter/mind-elixir-core)
