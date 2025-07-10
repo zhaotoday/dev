@@ -61,6 +61,7 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 
 #### 开源
+- [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [textbelt](https://github.com/typpo/textbelt)
 - [rsdoctor](https://github.com/web-infra-dev/rsdoctor)
 - [res-downloader](https://github.com/putyy/res-downloader)
