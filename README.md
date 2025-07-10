@@ -251,6 +251,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [第一次赚美元！纯新手深度复盘网站出海，一文掌握全流程](https://juejin.cn/post/7524658995723943987)
 - [JavaScript篇：HTTP协议：前端开发者必须掌握的"互联网通信法则"](https://juejin.cn/post/7503872095736168502)
 - [高效前端开发：使用 unplugin-auto-import 实现依赖自动导入](https://juejin.cn/post/7503769523947044904)
 - [Vite 项目中使用 vite-plugin-dts 插件的详细指南](https://juejin.cn/post/7511724410052657186)
