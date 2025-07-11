@@ -63,7 +63,7 @@
 - [appsmith](https://www.appsmith.com/)
 
 #### 资源
-- [dynamodb](https://aws.amazon.com/cn/dynamodb/)
+- [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
 - [openlayers](https://github.com/openlayers/openlayers)
