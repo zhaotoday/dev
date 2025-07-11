@@ -63,6 +63,7 @@
 - [appsmith](https://www.appsmith.com/)
 
 #### 开源
+- [openlayers](https://github.com/openlayers/openlayers)
 - [luban-h5](https://github.com/ly525/luban-h5)
 - [mometa](https://github.com/imcuttle/mometa)
 - [steedos-platform](https://github.com/steedos/steedos-platform)
