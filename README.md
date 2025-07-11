@@ -62,6 +62,9 @@
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 - [appsmith](https://www.appsmith.com/)
 
+#### 资源
+- [dynamodb](https://aws.amazon.com/cn/dynamodb/)
+
 #### 开源
 - [openlayers](https://github.com/openlayers/openlayers)
 - [luban-h5](https://github.com/ly525/luban-h5)
