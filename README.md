@@ -252,6 +252,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [前端如何优化音频和视频的加载性能？](https://juejin.cn/post/7523519254877159451)
 - [第一次赚美元！纯新手深度复盘网站出海，一文掌握全流程](https://juejin.cn/post/7524658995723943987)
 - [JavaScript篇：HTTP协议：前端开发者必须掌握的"互联网通信法则"](https://juejin.cn/post/7503872095736168502)
 - [高效前端开发：使用 unplugin-auto-import 实现依赖自动导入](https://juejin.cn/post/7503769523947044904)
