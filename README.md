@@ -63,6 +63,7 @@
 - [appsmith](https://www.appsmith.com/)
 
 #### 开源
+- [amis](https://github.com/baidu/amis)
 - [mall-cook](https://github.com/wangyuan389/mall-cook)
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
 - [textbelt](https://github.com/typpo/textbelt)
