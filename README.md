@@ -60,6 +60,7 @@
 - [Spug 推送助手](https://push.spug.cc/)
 - [lemonsqueezy](https://www.lemonsqueezy.com/)
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
+- [appsmith](https://www.appsmith.com/)
 
 #### 开源
 - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
