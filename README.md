@@ -69,6 +69,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
+- [dgiot](https://github.com/dgiot/dgiot)
 - [pod-editor-demo](https://github.com/Mr-Yel/pod-editor-demo)
 - [kyanos](https://kyanos.io/cn/)
 - [openlayers](https://github.com/openlayers/openlayers)
