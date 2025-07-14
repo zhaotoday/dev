@@ -274,6 +274,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [WireGuard + frp 搭建安全高效的远程开发环境](https://juejin.cn/post/7500053325564362761)
 - [windows安装包管理工具 scoop](https://juejin.cn/post/7515386210701852735)
 - [别在用“长期主义”骗自己了](https://juejin.cn/post/7516846036586102835)
 - [没有CICD，怎么自动化部署？](https://juejin.cn/post/7493063238894125093)
