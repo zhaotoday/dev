@@ -71,6 +71,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
+- [idurar-erp-crm](https://github.com/idurar/idurar-erp-crm)
 - [o2oa](https://github.com/o2oa/o2oa)
 - [FileCodeBox](https://github.com/vastsa/FileCodeBox)
 - [macrozheng/mall](https://github.com/macrozheng/mall)
