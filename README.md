@@ -401,6 +401,9 @@
 - [frp](https://github.com/fatedier/frp)
 - [frpmgr](https://github.com/koho/frpmgr)
 - [frpc-desktop](https://github.com/luckjiawei/frpc-desktop)
+- [linker](https://github.com/snltty/linker)
+- [FastTunnel](https://github.com/FastTunnel/FastTunnel)
+- [NSmartProxy](https://github.com/tmoonlight/NSmartProxy)
 
 #### 第三方服务
 - [cpolar](https://www.cpolar.com/)
