@@ -71,7 +71,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
-- [puter](https://github.com/HeyPuter/puter)
+- [FileCodeBox](https://github.com/vastsa/FileCodeBox)
 - [macrozheng/mall](https://github.com/macrozheng/mall)
 - [NetSonar](https://github.com/sn4k3/NetSonar)
 - [twenty](https://github.com/twentyhq/twenty)
