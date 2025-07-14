@@ -66,6 +66,7 @@
 - [appsmith](https://www.appsmith.com/)
 
 #### 资源
+- [VisaCard](https://github.com/etwater280/VisaCard)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
