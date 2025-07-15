@@ -71,6 +71,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
+- [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
 - [oxc](https://oxc.rs/)
 - [erpnext](https://github.com/frappe/erpnext)
 - [jshERP](https://github.com/jishenghua/jshERP)
