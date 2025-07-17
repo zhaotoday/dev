@@ -283,6 +283,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [离职后整理基础知识点准备去找份更好的工作](https://juejin.cn/post/7435593294723203082)
 - [还在用 Jmeter 做压测？试试 oha 吧！你会毫不犹豫的爱上它！](https://juejin.cn/post/7512015202452324378)
 - [轻松压缩，极速转换！一键部署Mazanoke获得更安全的图片优化体验](https://zhuanlan.zhihu.com/p/1905261400013661885)
 - [电商开放平台API开发最佳实践：以淘宝开放平台为例](https://juejin.cn/post/7526737895382876194)
