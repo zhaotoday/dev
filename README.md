@@ -285,6 +285,7 @@
 - [spug](https://github.com/openspug/spug)
 
 #### 文章
+- [四款出色的文件同步备份软件：Synching、Goodsync、Echosync与Dsynchronize比较与总结](https://t.cj.sina.com.cn/articles/view/1823348853/6cae187502001eb7w)
 - [离职后整理基础知识点准备去找份更好的工作](https://juejin.cn/post/7435593294723203082)
 - [还在用 Jmeter 做压测？试试 oha 吧！你会毫不犹豫的爱上它！](https://juejin.cn/post/7512015202452324378)
 - [轻松压缩，极速转换！一键部署Mazanoke获得更安全的图片优化体验](https://zhuanlan.zhihu.com/p/1905261400013661885)
