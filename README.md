@@ -72,6 +72,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
+- [beutl](https://github.com/b-editor/beutl)
 - [FramePFX](https://github.com/AngryCarrot789/FramePFX)
 - [voice-pro](https://github.com/abus-aikorea/voice-pro)
 - [pyvideotrans](https://github.com/jianchang512/pyvideotrans)
