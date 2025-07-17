@@ -1,4 +1,5 @@
 #### 文档
+- [theodinproject](https://www.theodinproject.com/)
 - [cn-docs](https://github.com/cn-docs)
 - [APP 版本升级功能设计](https://juejin.cn/post/7412850227402997798)
 - [设计 MySQL 表的 14 条原则](https://www.yuque.com/fengjutian/ctn144/muqhrehwm8e3ac3w?singleDoc)
