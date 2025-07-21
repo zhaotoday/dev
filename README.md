@@ -67,15 +67,14 @@
 - [lemonsqueezy](https://www.lemonsqueezy.com/)
 - [Chrome DevTools](https://developer.chrome.google.cn/docs/devtools/overview?hl=zh-cn)
 - [appsmith](https://www.appsmith.com/)
+- [freefilesync](https://freefilesync.org/)
+- [goodsync](https://www.goodsync.com/)
+- [sync-in](https://sync-in.com/)
 
 #### 资源
 - [VisaCard](https://github.com/etwater280/VisaCard)
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
-
-#### 工具
-- [freefilesync](https://freefilesync.org/)
-- [goodsync](https://www.goodsync.com/)
 
 #### 开源
 - [beutl](https://github.com/b-editor/beutl)
