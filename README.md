@@ -1,4 +1,5 @@
 #### 文档
+- [Svelte](https://svelte.yayujs.com/docs/kit/introduction)
 - [theodinproject](https://www.theodinproject.com/)
 - [cn-docs](https://github.com/cn-docs)
 - [APP 版本升级功能设计](https://juejin.cn/post/7412850227402997798)
