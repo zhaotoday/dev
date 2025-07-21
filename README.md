@@ -73,6 +73,10 @@
 - [Awesome-Tools](https://github.com/YSGStudyHards/Awesome-Tools)
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
+#### 工具
+- [freefilesync](https://freefilesync.org/)
+- [goodsync](https://www.goodsync.com/)
+
 #### 开源
 - [beutl](https://github.com/b-editor/beutl)
 - [FramePFX](https://github.com/AngryCarrot789/FramePFX)
