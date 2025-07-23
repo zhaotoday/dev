@@ -7,3 +7,4 @@
 
 #### 开源
 - [Project V](https://www.v2fly.org/)
+- [go-file](https://github.com/songquanpeng/go-file)
