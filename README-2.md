@@ -15,3 +15,4 @@
 - [Project V](https://www.v2fly.org/)
 - [go-file](https://github.com/songquanpeng/go-file)
 - [rustfs](https://github.com/rustfs/rustfs)
+- [slidev](https://github.com/slidevjs/slidev)
