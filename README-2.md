@@ -13,6 +13,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [AgileBPM](http://www.agilebpm.cn/)
 - [jitsi-meet](https://github.com/jitsi/jitsi-meet)
 - [Project V](https://www.v2fly.org/)
 - [go-file](https://github.com/songquanpeng/go-file)
