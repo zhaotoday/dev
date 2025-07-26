@@ -1,5 +1,8 @@
-#### 厂商
+#### 硬件厂商
 - [微光互联](https://www.vguang.cn/)
+
+#### 域名注册商
+- [namesilo](https://www.namesilo.com/)
 
 #### 文章
 - [浅谈视频翻译的实现原理及工作方式](https://juejin.cn/post/7436020829223845928)
