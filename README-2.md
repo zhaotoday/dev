@@ -18,6 +18,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [gobackup](https://github.com/gobackup/gobackup)
 - [MoonTV](https://github.com/senshinya/MoonTV)
 - [ahey](https://github.com/vasanthv/ahey)
 - [wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro)
