@@ -5,6 +5,7 @@
 - [namesilo](https://www.namesilo.com/)
 
 #### 文章
+- [揭秘 GitHub ★11.1k 让你的存储秒变“万能盘”？JuiceFS：最好用的分布式文件系统存储系统能为你带来怎样革命性的提升？](https://juejin.cn/post/7528247770982039598)
 - [一篇文章带你了解一款强大的内网穿透工具---NPS](https://juejin.cn/post/7490977437674373155)
 - [浅谈视频翻译的实现原理及工作方式](https://juejin.cn/post/7436020829223845928)
 - [每天都在用的 debounce 和 throttle，其实 80% 的用法都错了](https://juejin.cn/post/7514552397751517238)
