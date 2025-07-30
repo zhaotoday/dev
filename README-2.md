@@ -20,6 +20,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [resume-design](https://github.com/Hacker233/resume-design)
 - [nocobase](https://www.nocobase.com/cn/)
 - [BillionMail](https://github.com/aaPanel/BillionMail)
 - [gobackup](https://github.com/gobackup/gobackup)
