@@ -5,6 +5,7 @@
 - [namesilo](https://www.namesilo.com/)
 
 #### 文章
+- [跨平台视频通信项目-OpenTok](https://blog.csdn.net/weixin_33775572/article/details/91753533)
 - [前端性能的隐藏杀手锏：用好 preload / prefetch / preconnect](https://juejin.cn/post/7519418729483714569)
 - [【万字总结】2025 前端+大前端+全栈 知识体系（上）](https://juejin.cn/post/7477025419418730532)
 - [揭秘 GitHub ★11.1k 让你的存储秒变“万能盘”？JuiceFS：最好用的分布式文件系统存储系统能为你带来怎样革命性的提升？](https://juejin.cn/post/7528247770982039598)
