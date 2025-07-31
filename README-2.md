@@ -5,6 +5,7 @@
 - [namesilo](https://www.namesilo.com/)
 
 #### 文章
+- [vonage音视频基本使用--web@opentok/client](https://blog.csdn.net/QiuXiang_/article/details/131943473)
 - [跨平台视频通信项目-OpenTok](https://blog.csdn.net/weixin_33775572/article/details/91753533)
 - [前端性能的隐藏杀手锏：用好 preload / prefetch / preconnect](https://juejin.cn/post/7519418729483714569)
 - [【万字总结】2025 前端+大前端+全栈 知识体系（上）](https://juejin.cn/post/7477025419418730532)
