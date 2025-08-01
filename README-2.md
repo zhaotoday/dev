@@ -7,6 +7,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 文章
+- [3小时，从0到1上线MVP海外AI网站产品！深度复盘](https://juejin.cn/post/7517841519253848116)
 - [前端工程化实践（husky及周边插件规范开发流程）](https://juejin.cn/post/7508646757884084260)
 - [vonage音视频基本使用--web@opentok/client](https://blog.csdn.net/QiuXiang_/article/details/131943473)
 - [跨平台视频通信项目-OpenTok](https://blog.csdn.net/weixin_33775572/article/details/91753533)
