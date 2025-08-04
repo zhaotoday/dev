@@ -31,6 +31,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [dokploy](https://github.com/Dokploy/dokploy)
 - [qihangerp-cloud](https://github.com/zeasin/qihangerp-cloud)
 - [Folo](https://github.com/RSSNext/Folo)
 - [hubproxy](https://github.com/sky22333/hubproxy)
