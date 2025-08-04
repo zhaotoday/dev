@@ -34,6 +34,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [saasfly](https://docs.saasfly.io/zh-cn/)
 - [meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes)
 - [MusicFree](https://github.com/maotoumao/MusicFree)
 - [dokploy](https://github.com/Dokploy/dokploy)
