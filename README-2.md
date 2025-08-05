@@ -34,6 +34,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [koreader](https://github.com/koreader/koreader)
 - [OpenList](https://github.com/OpenListTeam/OpenList)
 - [go2rtc](https://github.com/AlexxIT/go2rtc)
 - [saasfly](https://docs.saasfly.io/zh-cn/)
