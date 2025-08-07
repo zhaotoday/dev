@@ -1,4 +1,5 @@
 #### 产品
+- [infinityfree](https://www.infinityfree.com/)
 - [zippic](https://www.zippic.cn/zh)
 - [dokploy](https://dokploy.com/zh-Hans)
 - [penpot](https://penpot.app/)
