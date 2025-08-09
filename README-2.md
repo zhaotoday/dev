@@ -14,6 +14,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 文章
+- [“全栈”正在淘汰“前端”吗？一个前端专家的焦虑与思考](https://juejin.cn/post/7532777221197840399)
 - [Web字体使用最佳实践](https://juejin.cn/post/7533078347951112207)
 - [3小时，从0到1上线MVP海外AI网站产品！深度复盘](https://juejin.cn/post/7517841519253848116)
 - [前端工程化实践（husky及周边插件规范开发流程）](https://juejin.cn/post/7508646757884084260)
