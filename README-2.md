@@ -14,6 +14,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 文章
+- [作为前端Team Leader，我是如何做技术选型、项目排期和新人培养的？](https://juejin.cn/post/7522090849035911219)
 - [SkyWalking全平台部署指南：Windows、Linux与Docker环境下的安装配置与实践](https://juejin.cn/post/7517561969865605155)
 - [SmartDNS：开源DNS加速神器——从家庭网络到企业级架构的终极指南](https://juejin.cn/post/7536983971935174671)
 - [“全栈”正在淘汰“前端”吗？一个前端专家的焦虑与思考](https://juejin.cn/post/7532777221197840399)
