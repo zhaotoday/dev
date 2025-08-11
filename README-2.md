@@ -14,6 +14,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 文章
+- [SmartDNS：开源DNS加速神器——从家庭网络到企业级架构的终极指南](https://juejin.cn/post/7536983971935174671)
 - [“全栈”正在淘汰“前端”吗？一个前端专家的焦虑与思考](https://juejin.cn/post/7532777221197840399)
 - [Web字体使用最佳实践](https://juejin.cn/post/7533078347951112207)
 - [3小时，从0到1上线MVP海外AI网站产品！深度复盘](https://juejin.cn/post/7517841519253848116)
@@ -36,6 +37,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [smartdns](https://pymumu.github.io/smartdns/)
 - [妙幕 / SmartSub](https://github.com/buxuku/SmartSub)
 - [Sink](https://github.com/ccbikai/Sink)
 - [lerna](https://github.com/lerna/lerna)
