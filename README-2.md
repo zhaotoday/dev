@@ -45,6 +45,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [nightingale](https://github.com/ccfos/nightingale)
 - [smartdns](https://pymumu.github.io/smartdns/)
 - [妙幕 / SmartSub](https://github.com/buxuku/SmartSub)
 - [Sink](https://github.com/ccbikai/Sink)
