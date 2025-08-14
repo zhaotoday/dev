@@ -46,6 +46,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [jumpserver](https://jumpserver.org/)
 - [vite-plugin-mkcert](https://github.com/liuweiGL/vite-plugin-mkcert)
 - [ubicloud](https://github.com/ubicloud/ubicloud)
 - [nightingale](https://github.com/ccfos/nightingale)
