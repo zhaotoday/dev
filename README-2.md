@@ -20,6 +20,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [前端实现即时通讯，常用的技术](https://juejin.cn/post/7537944115976126518)
 - [SQLark：一款国产免费数据库开发和管理工具](https://zhuanlan.zhihu.com/p/1896137255099298616)
 - [作为前端Team Leader，我是如何做技术选型、项目排期和新人培养的？](https://juejin.cn/post/7522090849035911219)
 - [SkyWalking全平台部署指南：Windows、Linux与Docker环境下的安装配置与实践](https://juejin.cn/post/7517561969865605155)
