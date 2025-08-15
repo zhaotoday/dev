@@ -25,6 +25,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [我跑通了全球收付款的流程](https://juejin.cn/post/7435708914433785893)
 - [换掉MinIO！全新一代分布式文件系统来了，功能很强大！](https://juejin.cn/post/7537214698400792627)
 - [前端实现即时通讯，常用的技术](https://juejin.cn/post/7537944115976126518)
 - [SQLark：一款国产免费数据库开发和管理工具](https://zhuanlan.zhihu.com/p/1896137255099298616)
