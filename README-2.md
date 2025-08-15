@@ -51,6 +51,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [api-design-guide](https://github.com/CiscoDevNet/api-design-guide)
 - [webping.cloud](https://github.com/goenning/webping.cloud)
 - [LibreTV](https://github.com/LibreSpark/LibreTV)
 - [jumpserver](https://jumpserver.org/)
