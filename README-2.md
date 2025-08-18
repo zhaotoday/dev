@@ -1,4 +1,5 @@
 #### 文档
+- [HTTP API 设计指南](https://one-programmer.github.io/docs/http-api-design/)
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
