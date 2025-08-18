@@ -54,6 +54,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [gopeed](https://github.com/GopeedLab/gopeed)
 - [storybook](https://storybook.js.org/)
 - [60s](https://github.com/vikiboss/60s)
 - [api-design-guide](https://github.com/CiscoDevNet/api-design-guide)
