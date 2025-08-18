@@ -29,6 +29,7 @@
 - [Utility Types](https://www.typescriptlang.org/docs/handbook/utility-types.html)
 
 #### 网站
+- [semi](https://semi.design/zh-CN/)
 - [uxbot](https://www.uxbot.cn/)
 - [CyberChef](https://gchq.github.io/CyberChef/)
 - [Wayback Machine](https://web.archive.org/)
