@@ -24,6 +24,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 工具
+- [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
 - [responsively](https://responsively.app/)
 - [图吧工具箱](https://www.tubatool.com/tools/)
