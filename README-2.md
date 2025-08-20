@@ -4,6 +4,7 @@
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
+- [uiverse](https://uiverse.io/)
 - [mihomo](https://mihomo.party/)
 - [pmmock](https://www.pmmock.com/)
 - [upgrade.chat](https://upgrade.chat/)
