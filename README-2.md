@@ -25,6 +25,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 工具
+- [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser)
 - [Authenticator](https://github.com/Authenticator-Extension/Authenticator)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
