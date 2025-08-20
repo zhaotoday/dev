@@ -25,6 +25,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 工具
+- [Authenticator](https://github.com/Authenticator-Extension/Authenticator)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
 - [responsively](https://responsively.app/)
