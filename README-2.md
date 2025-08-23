@@ -27,6 +27,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 工具
+- [posting](https://github.com/darrenburns/posting)
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser)
 - [Authenticator](https://github.com/Authenticator-Extension/Authenticator)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
