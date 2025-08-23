@@ -5,6 +5,7 @@
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
+- [pinme](https://pinme.eth.limo/)
 - [发布鸭](https://www.fabuya.com/)
 - [uiverse](https://uiverse.io/)
 - [mihomo](https://mihomo.party/)
