@@ -38,6 +38,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [Monorepo 架构：Lerna、Nx 与 Turborepo 的对比](https://juejin.cn/post/7513537463358521385)
 - [写给中年危机正迷茫的你](https://juejin.cn/post/7507206037432156172)
 - [前端常见的性能指标采集](https://juejin.cn/post/7531640890461388819)
 - [我跑通了全球收付款的流程](https://juejin.cn/post/7435708914433785893)
