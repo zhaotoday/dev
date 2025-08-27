@@ -70,6 +70,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [yalc](https://github.com/wclr/yalc)
 - [PicHoro](https://github.com/Kuingsmile/PicHoro)
 - [webamp](https://github.com/captbaritone/webamp)
 - [auth0](https://github.com/auth0/auth0.js)
