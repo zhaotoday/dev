@@ -73,6 +73,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [free-font](https://github.com/jaywcjlove/free-font)
 - [dockur/windows](https://github.com/dockur/windows)
 - [electerm](https://github.com/electerm/electerm)
 - [LunaTV](https://github.com/MoonTechLab/LunaTV)
