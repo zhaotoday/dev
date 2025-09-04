@@ -5,6 +5,7 @@
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
+- [pxcharts](http://pxcharts.com/)
 - [统信UOS](https://home.uniontech.com/)
 - [pinme](https://pinme.eth.limo/)
 - [发布鸭](https://www.fabuya.com/)
