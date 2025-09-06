@@ -35,6 +35,7 @@
 - [posting](https://github.com/darrenburns/posting)
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser)
 - [Authenticator](https://github.com/Authenticator-Extension/Authenticator)
+- [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
 - [responsively](https://responsively.app/)
