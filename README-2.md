@@ -7,6 +7,7 @@
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
+- [tds](https://framework.tds.qq.com/)
 - [pxcharts](http://pxcharts.com/)
 - [统信UOS](https://home.uniontech.com/)
 - [pinme](https://pinme.eth.limo/)
