@@ -44,6 +44,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [什么语言最适合用来游戏开发？](https://juejin.cn/post/7516784123693498378)
 - [给大龄（35岁+）程序员的绝地求生计划书](https://juejin.cn/post/7543976401176985643)
 - [深夜万文再度深入聊聊工程化（工程化真的很重要！！！）](https://juejin.cn/post/7464119437073219584)
 - [前端工程化，搭建项目（eslint + preitter + husky + lint-staged + commitlint + com...）](https://juejin.cn/post/7431450163154501682)
