@@ -80,6 +80,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [awesome-cs-tutorial](https://github.com/sanbuphy/awesome-cs-tutorial)
 - [opendevops](https://github.com/opendevops-cn/opendevops)
 - [build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
 - [free-font](https://github.com/jaywcjlove/free-font)
