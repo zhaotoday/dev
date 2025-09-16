@@ -36,6 +36,7 @@
 - [porkbun](https://porkbun.com/)
 
 #### 工具
+- [简米](https://www.pingxx.com/)
 - [知道创宇](https://defense.yunaq.com/)
 - [posting](https://github.com/darrenburns/posting)
 - [keepassxc-browser](https://github.com/keepassxreboot/keepassxc-browser)
