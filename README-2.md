@@ -1,4 +1,5 @@
 #### 文档
+- [前端基建：小团队前端代码规范基础篇](https://juejin.cn/post/7508862598974373914)
 - [monorepo 项目代码管理](https://www.yuque.com/kenguba/js/monorepo)
 - [semantic-release](https://semantic-release.gitbook.io/semantic-release/)
 - [linux-tutorial](https://github.com/dunwu/linux-tutorial)
