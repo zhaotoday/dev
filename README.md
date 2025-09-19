@@ -71,6 +71,7 @@
 - [freefilesync](https://freefilesync.org/)
 - [goodsync](https://www.goodsync.com/)
 - [sync-in](https://sync-in.com/)
+- [LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 
 #### 资源
 - [VisaCard](https://github.com/etwater280/VisaCard)
