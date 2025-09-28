@@ -91,6 +91,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [Ctool](https://github.com/baiy/Ctool)
 - [free-for-dev-zh](https://github.com/tvvocold/free-for-dev-zh)
 - [awesome-cs-tutorial](https://github.com/sanbuphy/awesome-cs-tutorial)
 - [opendevops](https://github.com/opendevops-cn/opendevops)
