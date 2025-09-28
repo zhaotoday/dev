@@ -37,6 +37,9 @@
 - [gname](https://www.gname.com/)
 - [porkbun](https://porkbun.com/)
 
+#### 网站
+- [独立开发者出海周刊](https://gap.weijunext.com/)
+
 #### 工具
 - [简米](https://www.pingxx.com/)
 - [知道创宇](https://defense.yunaq.com/)
