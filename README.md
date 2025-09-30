@@ -79,6 +79,7 @@
 - [Amazon DynamoDB](https://aws.amazon.com/cn/dynamodb/?trk=78e168df-eaa0-4e6d-8112-442b0d8442aa)
 
 #### 开源
+- [douyin](https://github.com/zyronon/douyin)
 - [opentui](https://github.com/sst/opentui)
 - [Graphite](https://github.com/GraphiteEditor/Graphite)
 - [beutl](https://github.com/b-editor/beutl)
