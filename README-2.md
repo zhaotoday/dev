@@ -55,6 +55,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [中高级前端必须掌握的package.json最新最全指南](https://juejin.cn/post/7240805459288522808)
 - [老师问我localhost和127.0.0.1，有什么区别？](https://juejin.cn/post/7528247770982219822)
 - [写给小公司前端的 UI 规范](https://juejin.cn/post/7521013717439315994)
 - [无代码工具怎么选？23 款热门工具对比 + 选型指南（2025）](https://juejin.cn/post/7477883001440567311)
