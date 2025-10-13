@@ -10,6 +10,7 @@
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 
 #### 产品
+- [modernjs](https://modernjs.dev/zh/index.html)
 - [iOA](https://ioa.cloud.tencent.com/version/)
 - [openwrite](https://openwrite.cn/)
 - [轻简历](https://www.wktline.com/)
