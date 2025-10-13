@@ -55,6 +55,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [小团队的商业化模板参考：从项目制到产品收入](https://juejin.cn/post/7560163082815684643)
 - [做三维开发这么久，竟然还不知道这些宝藏网站？](https://juejin.cn/post/7427455855971450916)
 - [中高级前端必须掌握的package.json最新最全指南](https://juejin.cn/post/7240805459288522808)
 - [老师问我localhost和127.0.0.1，有什么区别？](https://juejin.cn/post/7528247770982219822)
