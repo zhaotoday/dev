@@ -9,6 +9,7 @@
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines)
 - [HTTP API 设计指南](https://one-programmer.github.io/docs/http-api-design/)
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
+- [easings](https://easings.net/)
 
 #### 产品
 - [easydss](http://www.easydss.com/)
