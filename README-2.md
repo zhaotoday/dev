@@ -108,6 +108,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [PandaWiki](https://github.com/chaitin/PandaWiki)
 - [mindoc](https://github.com/mindoc-org/mindoc)
 - [stremio-web](https://github.com/Stremio/stremio-web)
 - [DocFlow](https://github.com/xun082/DocFlow)
