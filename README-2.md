@@ -109,6 +109,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [Cap](https://github.com/CapSoftware/Cap)
 - [APIJSON](https://github.com/Tencent/APIJSON)
 - [flycut-caption](https://github.com/x007xyz/flycut-caption)
 - [PandaWiki](https://github.com/chaitin/PandaWiki)
