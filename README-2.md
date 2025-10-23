@@ -12,6 +12,7 @@
 - [easings](https://easings.net/)
 
 #### 产品
+- [yaak](https://yaak.app/)
 - [arco.design](https://arco.design/)
 - [魔方简历](https://magicv.art/zh)
 - [easydss](http://www.easydss.com/)
