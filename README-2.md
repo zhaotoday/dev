@@ -12,6 +12,7 @@
 - [easings](https://easings.net/)
 
 #### 产品
+- [codesnap](https://codesnap.dev/)
 - [pinme](https://pinme.eth.limo/)
 - [yaak](https://yaak.app/)
 - [arco.design](https://arco.design/)
