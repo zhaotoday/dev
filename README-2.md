@@ -66,6 +66,7 @@
 - [风鸟](https://riskbird.com/)
 
 #### 文章
+- [使用 gh-pages 快速部署前端项目到 GitHub Pages](https://juejin.cn/post/7555346721690386468)
 - [《初探海报编辑器》](https://juejin.cn/post/7463126945162772518)
 - [7 种能为开发者带来每月 1000+ 美元被动收入的方法](https://juejin.cn/post/7542441287921369138)
 - [有了这些网站，让我的三维开发之路顺风又顺水！](https://juejin.cn/post/7430616540804694066)
