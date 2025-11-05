@@ -12,6 +12,7 @@
 - [easings](https://easings.net/)
 
 #### 产品
+- [openinstall](https://www.openinstall.com/)
 - [bark](https://bark.day.app/)
 - [codesnap](https://codesnap.dev/)
 - [pinme](https://pinme.eth.limo/)
