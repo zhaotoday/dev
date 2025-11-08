@@ -72,6 +72,7 @@
 - [douyin-downloader](https://github.com/jiji262/douyin-downloader)
 
 #### 文章
+- [使用 Certimate 实现自动续签 SSL 证书](https://juejin.cn/post/7553992444998418467)
 - [如果面试被问到单点登录，你会怎么回答？](https://juejin.cn/post/7527505157976277019)
 - [使用 gh-pages 快速部署前端项目到 GitHub Pages](https://juejin.cn/post/7555346721690386468)
 - [《初探海报编辑器》](https://juejin.cn/post/7463126945162772518)
