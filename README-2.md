@@ -72,6 +72,7 @@
 - [douyin-downloader](https://github.com/jiji262/douyin-downloader)
 
 #### 文章
+- [云服务相关术语解读（ECS、OSS、RDS、NAS、CDN、SLB等）](https://juejin.cn/post/7569537693501521963)
 - [使用 Certimate 实现自动续签 SSL 证书](https://juejin.cn/post/7553992444998418467)
 - [如果面试被问到单点登录，你会怎么回答？](https://juejin.cn/post/7527505157976277019)
 - [使用 gh-pages 快速部署前端项目到 GitHub Pages](https://juejin.cn/post/7555346721690386468)
