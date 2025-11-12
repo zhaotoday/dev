@@ -1,4 +1,5 @@
 #### 文档
+- [中文排版指南](https://zhuanlan.zhihu.com/p/20506092)
 - [frontendinterviewhandbook](https://www.frontendinterviewhandbook.com/zh-CN/javascript-questions)
 - [前端基建：小团队前端代码规范基础篇](https://juejin.cn/post/7508862598974373914)
 - [monorepo 项目代码管理](https://www.yuque.com/kenguba/js/monorepo)
