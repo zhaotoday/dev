@@ -71,6 +71,7 @@
 - [风鸟](https://riskbird.com/)
 - [bananas](https://github.com/mistweaverco/bananas)
 - [douyin-downloader](https://github.com/jiji262/douyin-downloader)
+- [Motrix](https://github.com/agalwood/Motrix)
 
 #### 文章
 - [云服务相关术语解读（ECS、OSS、RDS、NAS、CDN、SLB等）](https://juejin.cn/post/7569537693501521963)
