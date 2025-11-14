@@ -129,6 +129,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [etcher](https://github.com/balena-io/etcher)
 - [fumadocs](https://fumadocs.dev/)
 - [fuma-comment](https://github.com/fuma-nama/fuma-comment)
 - [gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram)
