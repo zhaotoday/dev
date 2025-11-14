@@ -75,6 +75,7 @@
 - [ferdium-app](https://github.com/ferdium/ferdium-app)
 
 #### 文章
+- [微信自动化工具：让自己的微信变成智能机器人！](https://juejin.cn/post/7526720172968706100)
 - [2025 年，前端开发者不可不知的前端新特性](https://juejin.cn/post/7468119514096058418)
 - [云服务相关术语解读（ECS、OSS、RDS、NAS、CDN、SLB等）](https://juejin.cn/post/7569537693501521963)
 - [使用 Certimate 实现自动续签 SSL 证书](https://juejin.cn/post/7553992444998418467)
