@@ -73,6 +73,7 @@
 - [douyin-downloader](https://github.com/jiji262/douyin-downloader)
 - [Motrix](https://github.com/agalwood/Motrix)
 - [ferdium-app](https://github.com/ferdium/ferdium-app)
+- [Checkmate](https://github.com/bluewave-labs/Checkmate)
 
 #### 文章
 - [微信自动化工具：让自己的微信变成智能机器人！](https://juejin.cn/post/7526720172968706100)
