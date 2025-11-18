@@ -56,6 +56,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [squoosh](https://squoosh.app/)
 - [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui)
 - [autocomplete](https://github.com/withfig/autocomplete)
 - [简米](https://www.pingxx.com/)
