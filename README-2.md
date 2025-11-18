@@ -13,6 +13,7 @@
 - [easings](https://easings.net/)
 
 #### 产品
+- [notegen](https://notegen.top/cn)
 - [GeeTest](https://www.geetest.com/)
 - [openinstall](https://www.openinstall.com/)
 - [bark](https://bark.day.app/)
