@@ -56,6 +56,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [restring](https://restring.dev/)
 - [difftext](https://difftext.com/)
 - [squoosh](https://squoosh.app/)
 - [realesrgan-gui](https://github.com/TransparentLC/realesrgan-gui)
