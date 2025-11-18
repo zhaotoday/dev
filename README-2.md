@@ -137,6 +137,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [mianshipai-web](https://github.com/mianshipai/mianshipai-web)
 - [openimsdk](https://github.com/openimsdk)
 - [call-me](https://github.com/miroslavpejic85/call-me)
 - [elevenlabs/ui](https://github.com/elevenlabs/ui)
