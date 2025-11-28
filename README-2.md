@@ -57,6 +57,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [sms-activate](https://sms-activate.io/cn)
 - [迅捷在线压缩](https://yasuo.xunjiepdf.com/img/)
 - [restring](https://restring.dev/)
 - [difftext](https://difftext.com/)
