@@ -83,6 +83,7 @@
 - [Checkmate](https://github.com/bluewave-labs/Checkmate)
 
 #### 文章
+- [shortlink：我敢打赌90%以上的项目都能用上的开源项目，短链生成神器，一键生成短链接的开源神器，简单又好用](https://juejin.cn/post/7462208347486371903)
 - [本地开发遇到强制 HTTPS？快来试试 mkcert 神器！🚀](https://juejin.cn/post/7450701376887144502)
 - [微信自动化工具：让自己的微信变成智能机器人！](https://juejin.cn/post/7526720172968706100)
 - [2025 年，前端开发者不可不知的前端新特性](https://juejin.cn/post/7468119514096058418)
@@ -142,6 +143,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [shortlink](https://gitee.com/nageoffer/shortlink)
 - [HuLa](https://github.com/HulaSpark/HuLa)
 - [kiftd](https://github.com/KOHGYLW/kiftd)
 - [system-design-101](https://github.com/ByteByteGoHq/system-design-101)
