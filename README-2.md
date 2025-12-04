@@ -57,6 +57,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [joplin](https://github.com/laurent22/joplin)
 - [233heji](https://233heji.com/)
 - [sms-activate](https://sms-activate.io/cn)
 - [迅捷在线压缩](https://yasuo.xunjiepdf.com/img/)
