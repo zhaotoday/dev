@@ -145,6 +145,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [homebridge](https://github.com/homebridge/homebridge)
 - [shortlink](https://gitee.com/nageoffer/shortlink)
 - [HuLa](https://github.com/HulaSpark/HuLa)
 - [kiftd](https://github.com/KOHGYLW/kiftd)
