@@ -11,6 +11,7 @@
 - [HTTP API 设计指南](https://one-programmer.github.io/docs/http-api-design/)
 - [api-guidelines](https://github.com/microsoft/api-guidelines)
 - [easings](https://easings.net/)
+- [web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines)
 
 #### 产品
 - [notegen](https://notegen.top/cn)
