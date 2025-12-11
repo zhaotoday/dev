@@ -58,6 +58,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [NavicatCracker](https://github.com/shuhongfan/NavicatCracker)
 - [ServBay](https://github.com/ServBay/ServBay)
 - [git-sync](https://github.com/kubernetes/git-sync)
 - [actions/runner-images](https://github.com/actions/runner-images)
