@@ -58,6 +58,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [Photoshop破解版下载安装-Ps破解版下载免费中文版-Photoshop破解版大全](https://www.32r.com/zt/dgyjzzrj/)
 - [photoshop 2026中文直装版 v27.1.0.17 m0nkrus版](https://www.ddooo.com/softdown/199126.htm)
 - [webcut](https://github.com/tangshuang/webcut)
 - [NavicatCracker](https://github.com/shuhongfan/NavicatCracker)
