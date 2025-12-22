@@ -59,6 +59,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [redis-windows](https://github.com/redis-windows/redis-windows)
 - [nvm-windows](https://github.com/coreybutler/nvm-windows)
 - [aconvert](https://www.aconvert.com/)
 - [caddy](https://github.com/caddyserver/caddy)
