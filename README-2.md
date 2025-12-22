@@ -59,6 +59,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [nvm-windows](https://github.com/coreybutler/nvm-windows)
 - [aconvert](https://www.aconvert.com/)
 - [caddy](https://github.com/caddyserver/caddy)
 - [Photoshop破解版下载安装-Ps破解版下载免费中文版-Photoshop破解版大全](https://www.32r.com/zt/dgyjzzrj/)
