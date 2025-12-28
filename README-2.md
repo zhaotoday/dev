@@ -89,6 +89,7 @@
 - [ZyperWinOptimize](https://github.com/ZyperWave/ZyperWinOptimize)
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat)
 - [WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner)
+- [tw93/Mole](https://github.com/tw93/Mole)
 - [responsively](https://responsively.app/)
 - [图吧工具箱](https://www.tubatool.com/tools/)
 - [风鸟](https://riskbird.com/)
