@@ -162,6 +162,7 @@
 - [从零开始打造你的前端CLI工具：Tohru-CLI开发指南 🚀](https://juejin.cn/post/7501621474106916916)
 
 #### 开源
+- [openproject](https://github.com/opf/openproject)
 - [flag-icons](https://github.com/lipis/flag-icons)
 - [SSTap-backup](https://github.com/solikethis/SSTap-backup)
 - [homebridge](https://github.com/homebridge/homebridge)
