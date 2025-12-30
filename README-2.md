@@ -15,6 +15,7 @@
 - [web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines)
 
 #### 产品
+- [花瓣](https://huaban.com/)
 - [notegen](https://notegen.top/en)
 - [查找币](https://czb.com/)
 - [notegen](https://notegen.top/cn)
