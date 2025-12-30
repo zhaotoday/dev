@@ -61,6 +61,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [dujiaoka](https://github.com/assimon/dujiaoka)
 - [AudioDock](https://github.com/mmdctjj/AudioDock)
 - [pinokio](https://pinokio.co/)
 - [redis-windows](https://github.com/redis-windows/redis-windows)
