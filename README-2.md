@@ -101,6 +101,7 @@
 - [Checkmate](https://github.com/bluewave-labs/Checkmate)
 
 #### 文章
+- [目前开源架构需要注意的安全问题](https://juejin.cn/post/7588300640599457798)
 - [一次性讲清楚常见的软件架构图](https://juejin.cn/post/7576129509935120403)
 - [我经常使用的工具或网站](https://juejin.cn/post/7475617090286174217)
 - [shortlink：我敢打赌90%以上的项目都能用上的开源项目，短链生成神器，一键生成短链接的开源神器，简单又好用](https://juejin.cn/post/7462208347486371903)
