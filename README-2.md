@@ -106,6 +106,7 @@
 - [Checkmate](https://github.com/bluewave-labs/Checkmate)
 
 #### 文章
+- [对标MinIO！全新一代分布式文件系统诞生！](https://juejin.cn/post/7582763878674661403)
 - [2025 年 8 款最佳远程协作工具](https://juejin.cn/post/7577215663967420458)
 - [FFmpeg + WebRTC：音视频开发的两大核心利器](https://juejin.cn/post/7542821271174119424)
 - [目前开源架构需要注意的安全问题](https://juejin.cn/post/7588300640599457798)
