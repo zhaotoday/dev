@@ -62,6 +62,7 @@
 - [独立开发者出海周刊](https://gap.weijunext.com/)
 
 #### 工具
+- [tabby](https://github.com/Eugeny/tabby)
 - [KouriChat](https://github.com/KouriChat/KouriChat)
 - [dujiaoka](https://github.com/assimon/dujiaoka)
 - [AudioDock](https://github.com/mmdctjj/AudioDock)
